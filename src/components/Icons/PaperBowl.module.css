@@ -1,0 +1,23 @@
+.border {
+    fill: #9e9c9c;
+  }
+  .bg {
+    fill: #F2F2F2;
+  }
+  svg:hover .border {
+    fill: #76479c;
+    stroke: #76479c;
+  }
+  svg:hover .bg {
+    fill: #76479c;
+    stroke: #76479c;
+  }
+
+  .bowl {
+    transform-origin: bottom;
+    transform: scale(0.8);
+    transition: transform 0.3s ease;
+  }
+  svg:hover .bowl {
+    transform: scale(0.9);
+  }

@@ -1,0 +1,41 @@
+.border {
+  stroke: #9e9c9c;
+  stroke-width: 10;
+  stroke-miterlimit: 10;
+}
+.bg {
+  fill: #f2f2f2;
+}
+.sleeve {
+  fill: #9e9c9c;
+  stroke: #9e9c9c;
+  stroke-width: 4;
+}
+svg:hover .sleeve {
+  fill: #f2f2f2;
+  stroke: #f2f2f2;
+  stroke-width: 30;
+}
+.leaf {
+  fill: #f2f2f2;
+}
+svg:hover .leaf {
+  fill: #76479c;
+}
+svg:hover .border {
+  fill: #76479c;
+  stroke: #76479c;
+}
+svg:hover .bg {
+  fill: #76479c;
+  stroke: #76479c;
+}
+
+.lid {
+  transform-origin: left;
+  transform: translateY(45px) rotate(0);
+  transition: transform 0.3s ease;
+}
+svg:hover .lid {
+  transform: translateY(-10px) rotate(-10deg);
+}

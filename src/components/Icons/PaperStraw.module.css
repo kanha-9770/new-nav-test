@@ -1,0 +1,34 @@
+.border {
+  stroke: #9e9c9c;
+  stroke-width: 15;
+  stroke-miterlimit: 10;
+}
+.bg {
+  fill: #F2F2F2;
+}
+svg:hover .border {
+  fill: #76479c;
+  stroke: #76479c;
+}
+svg:hover .bg {
+  fill: #76479c;
+  stroke: #76479c;
+}
+
+.leftStraw {
+  transform-origin: bottom;
+  transform: translateY(0px) rotate(0);
+  transition: transform 0.3s ease;
+}
+svg:hover .leftStraw {
+  transform: translateY(-10px) rotate(-10deg);
+}
+
+.rightStraw {
+  transform-origin: bottom;
+  transform: translateY(-10px) rotate(0);
+  transition: transform 0.3s ease;
+}
+svg:hover .rightStraw {
+  transform: translateY(-40px) rotate(10deg);
+}

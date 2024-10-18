@@ -1,0 +1,136 @@
+{
+  "navbar": [
+    {
+      "category": "About",
+      "data": {
+        "navleftdata": [
+          {
+            "title": "Featured Projects",
+            "description": "Showcasing innovative projects in paper production and recycling.",
+            "textcolor": "text-yellow-500",
+            "icon": "https://i.pinimg.com/564x/bf/0b/bc/bf0bbc113db9ab88699fa6eab029b35d.jpg",
+            "link": "projects"
+          },
+          {
+            "title": "Sustainability",
+            "description": "Paper industry adopts biodegradable materials and enhances recycling efforts.",
+            "textcolor": "text-green-500",
+            "icon": "https://i.pinimg.com/564x/39/e4/26/39e426741c29f67274c8d23734f19aea.jpg",
+            "link": "sustainibility"
+          }
+        ],
+        "navrightdata": [
+          {
+            "title": "Mission & Vision",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_about/mission_v1.png",
+            "link": "vision",
+            "alt": "mission"
+          },
+          {
+            "title": "Our Company",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_about/company_v1.png",
+            "link": "our-company",
+            "alt": "company"
+          },
+          {
+            "title": "Our Strength",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_about/strength_v1.png",
+            "link": "our-strength",
+            "alt": "strength"
+          },
+          {
+            "title": "The Pink City",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_about/pinkCity_v1.png",
+            "link": "the-pink-city",
+            "alt": "pinkCity"
+          }
+        ]
+      }
+    },
+    {
+      "category": "Product",
+      "data": {
+        "Machines": [
+          {
+            "name": "NS-015",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "mimage": "https://assets.nesscoindustries.com/public/assets/nav_machine/PCM110WithPLC.png",
+            "category": "Paper Cup Machine, All Products"
+          }
+          
+        ],
+        "SidebarLinks": [
+          {
+            "name": "Paper Cup Machine",
+            "link": "/Paper Cup Machine",
+            "icon": "https://assets.nesscoindustries.com/public/assets/nav_machine_icon/paperlid.png"
+          }
+        ]
+      }
+    },
+    {
+      "category": "Application",
+      "data": {
+        "applications": [
+          {
+            "id": "1",
+            "name": "Paper Cutlery",
+            "description": "High-quality paper cutlery designed for sustainable dining. Perfect for eco-friendly events, offering both durability and convenience in single-use form."
+          }
+        ]
+      }
+    },
+    {
+      "category": "Support",
+      "data": {
+        "supportItem": [
+          {
+            "title": "Book a Service",
+            "link": "services",
+            "image": "https://assets.nesscoindustries.com/public/assets/nav_support/user-guide.json"
+          }
+          
+        ],
+        "supportMobile": {
+          "mobileFirst": "123-456-7890",
+          "mobileSecond": "098-765-4321"
+        }
+      }
+    },
+    {
+      "category": "Resources",
+      "data": {
+        "DataBankItem": [
+          {
+            "title": "FAQ",
+            "link": "faq",
+            "image": "https://res.cloudinary.com/dlavoml67/image/upload/v1726729266/tp1roenkfl9i7oqa8jbn.png",
+            "bgPic": "https://res.cloudinary.com/dlavoml67/image/upload/v1726729997/ulprlkuweecmrindl9jd.png"
+          }
+        ]
+      }
+    },
+    {
+      "category": "Video",
+      "data": {
+        "videoDataItem": [
+          {
+            "title": "Paper Cup Machine",
+            "image": "https://assets.nesscoindustries.com/public/video/home.webp",
+            "bgPic": "https://res.cloudinary.com/dlavoml67/image/upload/v1726729997/ulprlkuweecmrindl9jd.png"
+          }
+        ]
+      }
+    },
+    {
+      "category": "Contact",
+      "data": {
+        "contact": [
+          {
+            "link": "/contact"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+
+
+.border {
+  stroke: #9e9c9c;
+}
+.bg {
+  fill: #F2F2F2;
+}
+svg:hover .border {
+  fill: #76479c;
+  stroke: #76479c;
+}
+svg:hover .bg {
+  fill: #76479c;
+  stroke: #76479c;
+}
+
+
+.Spoon {
+  transform: translateX(140px) translateY(0px);
+  transition: transform 0.5s ease;
+}
+
+/* On Hover: Animate to a new position */
+svg:hover .Spoon {
+  animation: moveToNewPosition1 0.5s forwards;
+  color: #77479D;
+}
+
+/* Keyframes for animation */
+@keyframes moveToNewPosition1 {
+  0% {
+      transform: translateX(-657.95px) translateY(1109.89px);
+  }
+  100% {
+    transform: translateX(140px) translateY(0px);
+  }
+}
+
+/* ...................................................................................... */
+.Fork {
+  transform: translateX(120.97px) translateY(0px);
+  transition: transform 0.5s ease;
+}
+
+/* On Hover: Animate to a new position */
+svg:hover .Fork {
+  animation: moveToNewPosition2 0.5s forwards ;
+  background-color: ;
+}
+
+/* Keyframes for animation */
+@keyframes moveToNewPosition2 {
+  0% {
+      transform: translateX(731.7px) translateY(1101.52px);
+  }
+  100% {
+    transform: translateX(120.97px) translateY(0px);
+  }
+}

@@ -1,0 +1,26 @@
+.borderBg {
+  /* stroke: #9e9c9c;
+  stroke-width: 20;
+  stroke-miterlimit: 10; */
+  fill: #9e9c9c;
+}
+.bg {
+  fill: #F2F2F2;
+}
+svg:hover .borderBg {
+  fill: #76479c;
+  stroke: #76479c;
+}
+svg:hover .bg {
+  fill: #76479c;
+  stroke: #76479c;
+}
+
+.roll {
+  transform-origin: center;
+  transform: scale(1);
+  transition: transform 0.3s ease;
+}
+svg:hover .roll {
+  transform: scale(1.1);
+}

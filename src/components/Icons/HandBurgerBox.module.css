@@ -1,0 +1,25 @@
+.border {
+    stroke: #9e9c9c;
+    stroke-width: 15;
+    stroke-miterlimit: 10;
+  }
+  .bg {
+    fill: #F2F2F2;
+  }
+  svg:hover .border {
+    fill: #76479c;
+    stroke: #76479c;
+  }
+  svg:hover .bg {
+    fill: #76479c;
+    stroke: #76479c;
+  }
+
+  .box {
+    transform-origin: center;
+    transform: scale(0.9);
+    transition: transform 0.3s ease;
+  }
+  svg:hover .box {
+    transform: scale(1);
+  }

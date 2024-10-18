@@ -1,0 +1,25 @@
+.border {
+  stroke: #9e9c9c;
+  stroke-width: 15;
+  stroke-miterlimit: 10;
+  }
+  .bg {
+    fill: #F2F2F2;
+}
+svg:hover .border {
+    fill: #76479c;
+  stroke: #76479c;
+}
+svg:hover .bg {
+  fill: #76479c;
+  stroke: #76479c;
+}
+
+.lid {
+  transform-origin: center;
+  transform: translateY(140px) translateX(-10px) rotate(11deg);
+  transition: transform 0.3s ease;
+}
+svg:hover .lid {
+  transform: translateY(15px) rotate(-5deg);
+}

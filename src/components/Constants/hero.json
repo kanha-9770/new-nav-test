@@ -1,0 +1,1048 @@
+[
+  {
+    "homeSeoData": {
+      "title": "Paper Cup Machine Manufacturer and Supplier - Nessco India",
+      "description": "Trusted Paper Cup Machine Manufacturer since 1978. Nessco offers a wide range of paper cup making machine pairing with the latest technology. Enquire now!",
+      "keywords": "Nessco India",
+      "openGraph": {
+        "title": "Paper Cup Machine Manufacturer and Supplier - Nessco India",
+        "description": "Trusted Paper Cup Machine Manufacturer since 1978. Nessco offers a wide range of paper cup making machine pairing with the latest technology. Enquire now!",
+        "images": [
+          {
+            "url": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+            "alt": "Fully Automatic Paper Cup Making Machine"
+          }
+        ]
+      },
+      "robots": "index, follow",
+
+      "alternates": {
+        "canonical": "https://www.nesscoindia.com"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "site": "@NesscoIndia",
+        "title": "Paper Cup Machine Manufacturer - Nessco India",
+        "description": "Nessco India provides top-quality paper cup making machines paired with the latest technology. Enquire today!",
+        "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp"
+      }
+    },
+    "homeMachineSection": {
+      "title": "Our Products",
+      "subheading": "We are known for manufacturing and globally exporting various paper packaging machines including Cups, Glass, Straws and Plate Machines."
+    },
+    "navItems": [
+      {
+        "text": "Machines",
+        "ref": "homeMachineRef"
+      },
+      {
+        "text": "About Us",
+        "ref": "aboutUsRef"
+      },
+      {
+        "text": "Clientele",
+        "ref": "infiniteCardsRef"
+      },
+      {
+        "text": "KnowMore",
+        "ref": "knowMoreRef"
+      },
+      {
+        "text": "IoT",
+        "ref": "iotRef"
+      },
+      {
+        "text": "News",
+        "ref": "newsFeatureRef"
+      },
+      {
+        "text": "Testimonials",
+        "ref": "homeTestimonialRef"
+      }
+    ]
+  },
+  {
+    "category": "HeroSection",
+    "data": {
+      "video": {
+        "sources": [
+          {
+            "src": "https://assets.nesscoindustries.com/public/video/NewHome.webm",
+            "type": "video/webm"
+          }
+        ],
+
+        "poster": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp"
+      },
+      "images": [
+        "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+        "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+        "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+        "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp"
+      ],
+      "textOverlay": {
+        "headline": "Quality Food Packaging",
+        "subheadline": "Machinery & Solutions"
+      },
+      "buttonText": "Get a quote"
+    }
+  },
+  {
+    "category": "ProductSection",
+    "data": {
+      "products": [
+        {
+          "category": "cup",
+          "firstname": "Servo Driven",
+          "secondname": "Paper Cup Machine",
+          "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Servo Driven Machine",
+          "speed": 100,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High-Speed Synchronized Servos"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Advanced Sealing Technology"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Two-Step Curling Process"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Comprehensive Control System"
+            }
+          ]
+        },
+        {
+          "category": "bowl",
+          "firstname": "Automatic",
+          "secondname": "Paper Bowl Machine",
+          "description": "The Automatic Paper Bowl Machine offers a seamless combination of high speed and reliability, producing paper bowls of various sizes. This machine is perfect for large-scale production environments where speed and precision are critical.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Automatic Paper Bowl Machine",
+          "speed": 80,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High Production Capacity"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Servo Control System"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Ultrasonic Sealing Technology"
+            }
+          ]
+        },
+        {
+          "category": "cup",
+          "firstname": "Servo Driven",
+          "secondname": "Paper Cup Machine",
+          "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Servo Driven Machine",
+          "speed": 100,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High-Speed Synchronized Servos"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Advanced Sealing Technology"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Two-Step Curling Process"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Comprehensive Control System"
+            }
+          ]
+        },
+        {
+          "category": "bowl",
+          "firstname": "Automatic",
+          "secondname": "Paper Bowl Machine",
+          "description": "The Automatic Paper Bowl Machine offers a seamless combination of high speed and reliability, producing paper bowls of various sizes. This machine is perfect for large-scale production environments where speed and precision are critical.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Automatic Paper Bowl Machine",
+          "speed": 80,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High Production Capacity"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Servo Control System"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Ultrasonic Sealing Technology"
+            }
+          ]
+        },
+        {
+          "category": "cup",
+          "firstname": "Servo Driven",
+          "secondname": "Paper Cup Machine",
+          "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Servo Driven Machine",
+          "speed": 100,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High-Speed Synchronized Servos"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Advanced Sealing Technology"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Two-Step Curling Process"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Comprehensive Control System"
+            }
+          ]
+        },
+        {
+          "category": "bowl",
+          "firstname": "Automatic",
+          "secondname": "Paper Bowl Machine",
+          "description": "The Automatic Paper Bowl Machine offers a seamless combination of high speed and reliability, producing paper bowls of various sizes. This machine is perfect for large-scale production environments where speed and precision are critical.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Automatic Paper Bowl Machine",
+          "speed": 80,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High Production Capacity"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Servo Control System"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Ultrasonic Sealing Technology"
+            }
+          ]
+        },
+        {
+          "category": "cup",
+          "firstname": "Servo Driven",
+          "secondname": "Paper Cup Machine",
+          "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Servo Driven Machine",
+          "speed": 100,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High-Speed Synchronized Servos"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Advanced Sealing Technology"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Two-Step Curling Process"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Comprehensive Control System"
+            }
+          ]
+        },
+        {
+          "category": "bowl",
+          "firstname": "Automatic",
+          "secondname": "Paper Bowl Machine",
+          "description": "The Automatic Paper Bowl Machine offers a seamless combination of high speed and reliability, producing paper bowls of various sizes. This machine is perfect for large-scale production environments where speed and precision are critical.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Automatic Paper Bowl Machine",
+          "speed": 80,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High Production Capacity"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Servo Control System"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Ultrasonic Sealing Technology"
+            }
+          ]
+        },
+        {
+          "category": "cup",
+          "firstname": "Servo Driven",
+          "secondname": "Paper Cup Machine",
+          "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Servo Driven Machine",
+          "speed": 100,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High-Speed Synchronized Servos"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Advanced Sealing Technology"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Two-Step Curling Process"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Comprehensive Control System"
+            }
+          ]
+        },
+        {
+          "category": "cup",
+          "firstname": "Servo Driven",
+          "secondname": "Paper Cup Machine",
+          "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Servo Driven Machine",
+          "speed": 100,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High-Speed Synchronized Servos"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Advanced Sealing Technology"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Two-Step Curling Process"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Comprehensive Control System"
+            }
+          ]
+        },
+        {
+          "category": "bowl",
+          "firstname": "Automatic",
+          "secondname": "Paper Bowl Machine",
+          "description": "The Automatic Paper Bowl Machine offers a seamless combination of high speed and reliability, producing paper bowls of various sizes. This machine is perfect for large-scale production environments where speed and precision are critical.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Automatic Paper Bowl Machine",
+          "speed": 80,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High Production Capacity"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Servo Control System"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Ultrasonic Sealing Technology"
+            }
+          ]
+        },
+        {
+          "category": "cup",
+          "firstname": "Servo Driven",
+          "secondname": "Paper Cup Machine",
+          "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Servo Driven Machine",
+          "speed": 100,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High-Speed Synchronized Servos"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Advanced Sealing Technology"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Two-Step Curling Process"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Comprehensive Control System"
+            }
+          ]
+        },
+        {
+          "category": "cup",
+          "firstname": "Servo Driven",
+          "secondname": "Paper Cup Machine",
+          "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Servo Driven Machine",
+          "speed": 100,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High-Speed Synchronized Servos"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Advanced Sealing Technology"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Two-Step Curling Process"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Comprehensive Control System"
+            }
+          ]
+        },
+        {
+          "category": "bowl",
+          "firstname": "Automatic",
+          "secondname": "Paper Bowl Machine",
+          "description": "The Automatic Paper Bowl Machine offers a seamless combination of high speed and reliability, producing paper bowls of various sizes. This machine is perfect for large-scale production environments where speed and precision are critical.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Automatic Paper Bowl Machine",
+          "speed": 80,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High Production Capacity"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Servo Control System"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Ultrasonic Sealing Technology"
+            }
+          ]
+        },
+        {
+          "category": "cup",
+          "firstname": "Servo Driven",
+          "secondname": "Paper Cup Machine",
+          "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Servo Driven Machine",
+          "speed": 100,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High-Speed Synchronized Servos"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Advanced Sealing Technology"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Two-Step Curling Process"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Comprehensive Control System"
+            }
+          ]
+        },
+        {
+          "category": "cup",
+          "firstname": "Servo Driven",
+          "secondname": "Paper Cup Machine",
+          "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Servo Driven Machine",
+          "speed": 100,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High-Speed Synchronized Servos"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Advanced Sealing Technology"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Two-Step Curling Process"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Comprehensive Control System"
+            }
+          ]
+        },
+        {
+          "category": "bowl",
+          "firstname": "Automatic",
+          "secondname": "Paper Bowl Machine",
+          "description": "The Automatic Paper Bowl Machine offers a seamless combination of high speed and reliability, producing paper bowls of various sizes. This machine is perfect for large-scale production environments where speed and precision are critical.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Automatic Paper Bowl Machine",
+          "speed": 80,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High Production Capacity"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Servo Control System"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Ultrasonic Sealing Technology"
+            }
+          ]
+        },
+        {
+          "category": "cup",
+          "firstname": "Servo Driven",
+          "secondname": "Paper Cup Machine",
+          "description": "Experience unparalleled efficiency with our Servo Driven Paper Cup Machine, a marvel of engineering that integrates advanced mechanical, electronic, pneumatic, and electrical technologies. This high-precision machine is equipped with 13 servos that work in perfect sync via PLC, enabling the production of up to 180 high-quality paper cups per minute, equivalent to 3 cups per second. The machine features a two-step curling process, which ensures the rim of each cup is curled twice to provide extra rigidity and durability & High-quality sealing is guaranteed through the use of ultrasonic and hot air mechanisms, minimizing the risk of leakage, making it ideal for both hot and cold beverages.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Servo Driven Machine",
+          "speed": 100,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High-Speed Synchronized Servos"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Advanced Sealing Technology"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Two-Step Curling Process"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Comprehensive Control System"
+            }
+          ]
+        },
+        {
+          "category": "bowl",
+          "firstname": "Automatic",
+          "secondname": "Paper Bowl Machine",
+          "description": "The Automatic Paper Bowl Machine offers a seamless combination of high speed and reliability, producing paper bowls of various sizes. This machine is perfect for large-scale production environments where speed and precision are critical.",
+          "image": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "title": "Automatic Paper Bowl Machine",
+          "speed": 80,
+          "unit": "PCS/MIN",
+          "icon": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "items": [
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "High Production Capacity"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Servo Control System"
+            },
+            {
+              "className": "text-gray-400 text-3xl",
+              "text": "Ultrasonic Sealing Technology"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "category": "homeaboutsection",
+    "data": {
+      "title": "About US",
+      "heading": "Leading the Way in Food Packaging Machine Manufacturing",
+      "description": "At Nessco India, we specialize in manufacturing advanced food packaging machines that set industry standards for quality and innovation. Our state-of-the-art technology ensures efficient and sustainable solutions, meeting the diverse needs of our global clientele. With over 40 years of expertise, we are dedicated to pioneering eco-friendly practices in packaging. Trust us to lead the way in transforming packaging solutions for a greener future.",
+      "stats": {
+        "machinesSold": 30000,
+        "readyStockMachines": 3000
+      },
+      "leftstats": "Machines Sold",
+      "rightstats": "Ready Stock Machines",
+      "readmore": "Read more",
+      "cards": [
+        {
+          "title": "Vision & Mission",
+          "image": "https://assets.nesscoindustries.com/public/assets/HomeAbout1.png",
+          "link": "vission"
+        },
+        {
+          "title": "Our Strength",
+          "image": "https://assets.nesscoindustries.com/public/assets/HomeAbout2.jpg",
+          "link": "our-strength"
+        },
+        {
+          "title": "People & Culture",
+          "image": "https://assets.nesscoindustries.com/public/assets/HomeAbout3.png",
+          "link": "culture"
+        }
+      ]
+    }
+  },
+  {
+    "category": "homefeaturedata",
+    "data": {
+      "title": "Featured Products",
+      "description": "Upgrade Your Business with Our Top Picks",
+      "inquiry": "Added to inquiry",
+      "viewMachine": " View Machine",
+      "imageWithDescription": [
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        },
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        },
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        },
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        },
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        },
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        },
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        },
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        },
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        },
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        },
+
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        },
+        {
+          "h1": "Die Cutting Machine",
+          "h2": "NS-950",
+          "h3": "950mm Roll Width Die Cutting Machine",
+          "s": "S",
+          "sInformation": "Servo Driven",
+          "img": "https://www.nesscoindia.com/Assets/images/resource/fully-automatic-paper-cup-making-machine.webp",
+          "image": "https://assets.nesscoindustries.com/public/assets/nav_machine/PaperBowlMachine.webp",
+          "imageInformation": "Paper Plate",
+          "information": "More information about this item."
+        }
+      ]
+    }
+  },
+  {
+    "category": "BrandsSection",
+    "data": {
+      "trusted": [
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/abc-news.png",
+          "alt": "Abc-News"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/airfrance.png",
+          "alt": "Airfrance"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/allianz.png",
+          "alt": "Allianz"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/bbc.png",
+          "alt": "BBC"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/cnbc.png",
+          "alt": "CNBC"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/gannett.png",
+          "alt": "Gannett"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/jaguar.png",
+          "alt": "Jaguar"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/linkedin.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/telegraph.png",
+          "alt": "Telegraph"
+        }
+      ],
+      "partners": [
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/abc-news.png",
+          "alt": "Abc-News"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/airfrance.png",
+          "alt": "Airfrance"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/allianz.png",
+          "alt": "Allianz"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/bbc.png",
+          "alt": "BBC"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/cnbc.png",
+          "alt": "CNBC"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/gannett.png",
+          "alt": "Gannett"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/jaguar.png",
+          "alt": "Jaguar"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/linkedin.png",
+          "alt": "LinkedIn"
+        },
+        {
+          "src": "https://assets.nesscoindustries.com/public/assets/client-logos/telegraph.png",
+          "alt": "Telegraph"
+        }
+      ]
+    },
+    "heading1": "Trusted Brands",
+    "heading2": "Partners Brands",
+    "description": {
+      "heading": "Empowering sustainable packaging",
+      "text": "Empowering sustainable packaging with advanced paper-based solutions. Our innovative machines drive global CO2 reduction, paving the way for a greener earth and elevating your packaging capabilities."
+    }
+  },
+  {
+    "category": "knowmoresection",
+    "data": {
+      "knowmore": [
+        {
+          "title": "Industry Expertise",
+          "description": "With over 40 years of industry expertise, Nessco India has a rich history of innovation and reliability. Our extensive experience allows us to deliver high-quality, cutting-edge packaging solutions tailored to our clients' needs. Trust our proven track record and deep industry knowledge to provide exceptional products and services.",
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "link": "https://www.ignant.com/2023/03/25/ad2186-matthias-leidingers-photographic-exploration-of-awe-and-wonder/",
+          "color": "#24194c",
+          "expertiseExperience": "40+ Years of ",
+          "expertiseAbout": "Industry Expertise",
+          "icon": "https://assets.nesscoindustries.com/public/assets/Lottiimages/industry_experty.json"
+        },
+        {
+          "title": "Indigenous Design Engineering",
+          "description": "At Nessco India, our indigenous design engineering team leverages local expertise to create innovative packaging machines. This in-house approach ensures tailored solutions, superior quality, and reliable performance. By developing designs internally, we maintain full control over the manufacturing process, guaranteeing sustainability and excellence in every product.",
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "link": "https://www.ignant.com/2022/09/30/clement-chapillon-questions-geographical-and-mental-isolation-with-les-rochers-fauves/",
+          "color": "#4e3e8a",
+          "expertiseExperience": "40+ Years of ",
+          "expertiseAbout": "Industry Expertise",
+          "icon": "/assets/Lottiimages/precision-manufacturing.json"
+        },
+        {
+          "title": "Quality Control & Assurance",
+          "description": "Quality Control & Assurance is a cornerstone of our manufacturing process. Our rigorous quality control measures ensure that every product meets the highest standards of performance and durability. We are committed to delivering excellence, consistently verifying that our machines exceed industry expectations for reliability and efficiency.",
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "link": "https://www.ignant.com/2023/10/28/capturing-balis-many-faces-zissou-documents-the-sacred-and-the-mundane-of-a-fragile-island/",
+          "color": "#8c52ff",
+          "expertiseExperience": "40+ Years of ",
+          "expertiseAbout": "Industry Expertise",
+          "icon": "/assets/Lottiimages/precision-manufacturing.json"
+        },
+        {
+          "title": "Advanced Engineering Technologies",
+          "description": "We use the highest grade tooling, cylindrical grinders, VMC, and CNC machines to build the art of engineering. These advanced technologies ensure precision and excellence in our manufacturing process, allowing us to deliver top-tier packaging machines with unmatched performance and reliability. Trust our state-of-the-art equipment to produce engineering marvels tailored to your needs.",
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "link": "https://www.ignant.com/2019/03/13/a-photographic-series-depicting-the-uncertain-future-of-denmarks-treasured-coastlines/",
+          "color": "#a58fe8",
+          "expertiseExperience": "25+ Years of ",
+          "expertiseAbout": "Quality",
+          "icon": "/assets/Lottiimages/precision-manufacturing.json"
+        },
+        {
+          "title": "Comprehensive Support Services",
+          "description": "We ensure a seamless experience with our comprehensive support services. Our expert team handles the installation of your machinery, ensuring optimal performance from day one. We provide robust warranty coverage to address any issues promptly and ensure the longevity of your equipment. Our extensive spares support guarantees the availability of high-quality parts, to ensure your operations runs smoothly.",
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "link": "https://www.ignant.com/2023/04/12/mark-rammers-all-over-again-is-a-study-of-regret-and-the-willingness-to-move-forward/",
+          "color": "#bca0dd",
+          "expertiseExperience": "40+ Years of ",
+          "expertiseAbout": "Industry Expertise",
+          "icon": "/assets/Lottiimages/precision-manufacturing.json"
+        }
+      ]
+    }
+  },
+  {
+    "category": "newsFeature",
+    "data": {
+      "newsData": [
+        {
+          "title": "Revolutionary Speed Unveiled",
+          "description": "Discover the latest advancements in machine speed that are setting new industry benchmarks. Witness how cutting-edge technology is reshaping performance standards.Discover the latest advancements in machine speed that are setting new industry benchmarks.",
+          "image": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "alt": "Industrial machinery"
+        },
+        {
+          "title": "Excellence Showcased at DRUPA",
+          "description": "Experience the pinnacle of innovation as top-tier machines are displayed at DRUPA, showcasing the future of printing technology.",
+          "image": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "alt": "DRUPA exhibition"
+        },
+        {
+          "title": "Excellence Showcased at FOOMA",
+          "description": "Explore groundbreaking machines at FOOMA. See how the latest developments are making waves in the food manufacturing sector.",
+          "image": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "alt": "FOOMA exhibition"
+        },
+        {
+          "title": "Flat Bottom Rectangular Machine Launched",
+          "description": "Explore groundbreaking machines at FOOMA. See how our latest developments are making waves in the food manufacturing sector.",
+          "image": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "alt": "Flat Bottom Rectangular Machine"
+        }
+      ],
+      "heading": "Feature",
+      "subheading": "News"
+    }
+  },
+  {
+    "category": "testinomial",
+    "data": {
+      "testinomial": [
+        {
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "username": "Alice Johnson",
+          "profile": "Software Developer",
+          "country": "USA",
+          "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+          "flag": "https://flagcdn.com/us.svg"
+        },
+        {
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "username": "Michael Brown",
+          "profile": "Graphic Designer",
+          "country": "Canada",
+          "quote": "Design is intelligence made visible. Creativity transforms.",
+          "flag": "https://flagcdn.com/ca.svg"
+        },
+        {
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "username": "Sophia Lee",
+          "profile": "Product Manager",
+          "country": "UK",
+          "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+          "flag": "https://flagcdn.com/gb.svg"
+        },
+        {
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "username": "David Miller",
+          "profile": "Marketing Specialist",
+          "country": "Australia",
+          "quote": "Design is intelligence made visible. Creativity transforms.",
+          "flag": "https://flagcdn.com/at.svg"
+        },
+        {
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "username": "Emily Davis",
+          "profile": "UX Researcher",
+          "country": "Germany",
+          "quote": "Innovate and elevate. Embrace the future with bold ideas.",
+          "flag": "https://flagcdn.com/de.svg"
+        }
+      ],
+      "Testinomialvideos": [
+        {
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+        },
+        {
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+        },
+        {
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+        },
+        {
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+        },
+        {
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+        },
+        {
+          "src": "https://res.cloudinary.com/dj4jijw2a/image/upload/v1728375387/webphome_r4zgw2.webp",
+          "youtubeLink": "https://www.youtube.com/embed/UxPkK8gW0hs?rel=0"
+        }
+      ],
+      "heading": "Testinomials",
+      "subheading": "Don't Just Take",
+      "secondsubheading": "Our Word for it",
+      "thirdsubheading": "Satisfied Customers",
+      "description": "See What Our Clients Are Saying About Us"
+    }
+  }
+]

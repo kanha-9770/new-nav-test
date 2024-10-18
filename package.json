@@ -1,0 +1,45 @@
+{
+  "name": "homepage",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon",
+    "build": "next build",
+    "start": "node server/server.js",
+    "lint": "next lint",
+    "build:analyze": "cross-env ANALYZE=true npm run build"
+  },
+  "type": "module",
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^6.0.0",
+    "@next/bundle-analyzer": "^14.2.14",
+    "@radix-ui/react-label": "^2.1.0",
+    "@radix-ui/react-slot": "^1.1.0",
+    "@studio-freight/lenis": "^1.0.42",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "framer-motion": "^11.11.1",
+    "next": "14.2.8",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-intersection-observer": "^9.13.1",
+    "sharp": "^0.33.5",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "cross-env": "^7.0.3",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.8",
+    "nodemon": "^3.1.7",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.5.4"
+  }
+}

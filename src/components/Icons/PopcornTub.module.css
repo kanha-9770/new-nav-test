@@ -1,0 +1,30 @@
+.border {
+    stroke: #9e9c9c;
+    stroke-width: 15;
+    stroke-miterlimit: 10;
+  }
+  .bg {
+    fill: #F2F2F2;
+  }
+  svg:hover .border {
+    fill: #76479c;
+    stroke: #76479c;
+  }
+  svg:hover .bg {
+    fill: #76479c;
+    stroke: #76479c;
+  }
+  .popcornTub{
+    transform: scale(0.8);
+  }
+
+  .popcorn {
+    fill: #9e9c9c;
+    transform-origin: center;
+    transform: scale(0.5);
+    transition: transform 0.3s ease;
+  }
+  svg:hover .popcorn {
+    fill: #76479c;
+    transform: scale(1.1);
+  }
